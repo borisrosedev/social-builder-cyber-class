@@ -1,0 +1,84 @@
+= Cas pratique
+:customcss: style.css
+
+[.background.green]
+== Description de la cible
+
+Madame Dupont est une personne âgée qui vit dans un appartement de cinq pièces dans le XV arrondissement de Paris.Elle en est la propriétaire Vous êtes sa voisine.
+
+[.background.green]
+=== ...
+
+Vous avez vu que, une fois par semaine un de ses 3 enfants, vient lui rendre visite à 18h et repart avant 20h. Un de ses fils, Marc, a tout le temps des soucis financiers qu'elle doit compenser.
+
+
+[.background.green]
+=== ...
+
+Elle vous a déjà dit, car elle vous apprécie bien, qu'elle aime les jeux téléphoniques et les jeux télévisés où beaucoup de connaissances sont requises.Elle se vante souvent d'ailleurs d'avoir gagné 30 concours de culture générale dans sa vie. 
+
+[.background.green]
+=== ...
+
+Vous avez constaté qu'elle adore qu'on la flatte et qu'elle est athée, l'évocation de la religion a une grande tendance à l'irriter. En outre, elle déteste le manque d'éducation. 
+
+[.background.green]
+=== ...
+
+Vous savez par ailleurs qu'elle se sent souvent délaissée par ses enfants et qu'elle aime bien rester au téléphone avec n'importe quel interlocuteur même les personnes qui posent des questions sur sa ligne téléphonique pour faire jouer la concurrence.
+
+[.background.green]
+=== ...
+
+Elle glisse toujours ses clés d'appartement sous tapis d'entrée quand elle descend parler pendant deux heures à la voisine.
+
+[.background.green]
+=== ...
+
+Elle n'a jamais été cambriolée ni victime d'une tromperie en ligne ou téléphonique.
+
+[.background.green]
+=== ...
+
+Elle aime beaucoup utiliser son ordinateur pour effectuer des achats en ligne notamment acheter des gadgets onéreux qu'elle donne à son chat qu'elle considère comme son enfant le plus fidèle.
+
+[.background.green]
+== Objectif 
+
+Obtenir sur un compte offshore la somme de 2000 euros émanant du compte en banque de Madame Dupont sans qu'elle ne s'en rende compte.
+
+[.background.green]
+== Consignes
+
+[.background.green]
+=== Premièrement
+
+Repérer les différents risques dans le comportement Madame Dupont qu'une ingénieure sociale comme vous peut utiliser à son avantage. 
+
+[.background.green]
+=== Deuxièmement 
+
+Repérer les biais cognitifs que Madame Dupont semble avoir et montrer en quoi ils peuvent vous aider parvenir à vos fins.
+
+[.background.green]
+=== Troisièmement 
+
+Donner les techniques de manipulations que vous allez utiliser
+
+[.background.green]
+=== Quatrièmement
+
+Donner les tactiques d'ingénierie sociale que vous allez utiliser 
+
+[.background.green]
+=== Cinquièmement
+
+Lister les différentes étapes d'un plan pour aboutir à votre objectif.
+
+
+
+
+
+
+
+

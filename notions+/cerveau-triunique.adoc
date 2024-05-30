@@ -1,0 +1,56 @@
+= Le cerveau triunique 
+
+== Karl Friston
+
+Le cerveau trinique fait référence à une théorie proposée par le neuroscientifique et philosophe Karl Friston, souvent appelée la théorie de l'inference bayésienne active. 
+
+
+== Perspective sur le fonctionnement du cerveau
+
+Bien qu'il soit associé à Friston, ce modèle ne se réfère pas spécifiquement à un "cerveau triunique" au sens strict, mais plutôt à une perspective sur le fonctionnement du cerveau en relation avec l'apprentissage et la perception.
+
+== Inférence bayésienne 
+
+
+=== Définition 
+
+L'inférence bayésienne est un cadre mathématique pour la mise à jour des croyances basées sur les probabilités. 
+
+
+=== Inference engine
+
+Dans ce contexte, le cerveau est vu comme un "inference engine" qui essaie constamment de minimiser l'écart entre les attentes prédites (basées sur des modèles internes) et les données sensorielles réelles.
+
+
+
+=== Modèles internes 
+
+Le cerveau construit et utilise des modèles internes du monde, basés sur l'expérience passée et les interactions avec l'environnement. 
+
+
+=== Mis à jour constamment 
+
+Ces modèles internes sont constamment mis à jour en fonction des nouvelles données et des nouvelles expériences.
+
+=== Prédiction et Erreur de Prédiction 
+
+Le cerveau génère des prédictions sur ce qui va se passer dans le monde extérieur. 
+
+=== Erreur de prédiction
+
+Lorsque ces prédictions ne correspondent pas aux données sensorielles réelles (c'est-à-dire, il y a une "erreur de prédiction"), cela génère un signal d'erreur qui alimente le processus d'apprentissage pour mettre à jour les modèles internes.
+
+
+
+=== Hiérarchie de la Prédiction 
+
+Le modèle suggère que le cerveau fonctionne dans une hiérarchie de prédiction où les niveaux supérieurs font des prédictions abstraites et les niveaux inférieurs ajustent ces prédictions en fonction des données sensorielles.
+
+
+== En résumé 
+
+Le cerveau triunique n'est pas un aspect central de ce modèle, mais plutôt une approche qui se concentre sur la manière dont le cerveau génère des prédictions et les met constamment à jour en utilisant des mécanismes d'inférence bayésienne. 
+
+=== But 
+
+Cela permet de mieux comprendre la perception, la prise de décision et le fonctionnement global du cerveau en relation avec l'environnement externe.

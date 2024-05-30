@@ -1,0 +1,52 @@
+= Un ver informatique
+
+== Définition
+
+Un ver informatique, dans le contexte de la sécurité informatique, est un type de logiciel malveillant qui se propage de manière **autonome** d'un système à un autre. 
+
+== Aucun besoin d'un fichier hôte 
+
+Contrairement aux virus qui ont besoin de fichiers hôtes pour se propager, les vers peuvent se déplacer et se reproduire sans avoir besoin de fichiers hôtes. 
+
+Ils exploitent souvent des vulnérabilités de sécurité pour se propager rapidement à travers les réseaux.
+
+== Caractéristiques clés des vers informatiques
+
+=== Autopropagation 
+
+Les vers sont conçus pour se reproduire et se propager automatiquement d'un système à un autre. Ils peuvent se déplacer à travers les réseaux informatiques en exploitant des failles de sécurité.
+
+
+=== Indépendance de fichiers hôtes 
+
+Contrairement aux virus qui infectent des fichiers existants, les vers sont des programmes autonomes qui peuvent se dupliquer et se propager sans dépendre d'un fichier hôte.
+
+=== Exploitation de vulnérabilités 
+
+Les vers exploitent souvent des vulnérabilités connues dans les logiciels ou les systèmes d'exploitation pour accéder et infecter des systèmes.
+
+=== Capacité à causer des dommages 
+
+Certains vers sont conçus pour causer des dommages aux systèmes infectés, par exemple :
+[%step]
+* en effaçant des fichiers
+* en perturbant les opérations normales
+* en ouvrant des portes dérobées pour permettre un accès non autorisé.
+
+=== Propagation rapide 
+
+En raison de leur capacité à se propager automatiquement, les vers peuvent se répandre rapidement à travers les réseaux, affectant de nombreux systèmes en peu de temps.
+
+
+== Protection
+
+Pour se protéger contre les vers, il est essentiel :
+* de maintenir les logiciels à jour
+* d'utiliser des pare-feu et des solutions de sécurité réseau,
+* de prendre des mesures pour minimiser les vulnérabilités potentielles dans les systèmes informatiques. 
+
+== Autres moyens préventifs
+
+Les bonnes pratiques en matière de sécurité, telles que :
+* la mise en œuvre de politiques de sécurité robustes 
+* la sensibilisation des utilisateurs,

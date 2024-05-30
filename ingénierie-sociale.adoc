@@ -1,0 +1,133 @@
+= Ingénierie sociale
+:customcss: style.css
+
+[.background.blue]
+== Définition
+
+L'ingénierie sociale est une technique utilisée 
+[%step]
+* pour manipuler ou tromper les individus afin d'obtenir: 
+- des informations confidentielles
+- un accès à des systèmes informatiques 
+* pour les inciter à effectuer certaines actions. 
+
+
+[.background.green]
+=== Question 
+
+Avez-vous des exemples de situations qui relèveraient de l'ingénierie sociale ?
+
+
+[.background.blue]
+== Phishing :
+
+Envoyer des courriels, des messages texte ou des appels téléphoniques frauduleux qui semblent provenir d'organisations légitimes pour inciter les utilisateurs à divulguer des informations personnelles telles que:
+[%step]
+* des mots de passe
+* des numéros de carte de crédit
+* etc.
+
+
+[.background.blue]
+== Hameçonnage (Spear Phishing) :
+
+Personnaliser les attaques de phishing en utilisant des informations spécifiques sur la victime pour les rendre plus convaincantes et persuader la victime de divulguer des informations sensibles.
+
+
+[.background.green]
+== Cas pratique :
+
+Monsieur X votre voisin est particulièrement pénible. Il met la musique à fond et ne respecte par le voisingage. Vous avez fouillé dans ses poubelles et compris qu'il devait à l'Etat de l'argent. Vous avez trouvé des informations sur son domicile, la personne responsable de son dossier, son numéro fiscal et la dette en question. 
+
+Avez-vous assez d'information pour réaliser un Spear Phishing ?
+
+
+[.background.blue]
+== Vishing (Voice Phishing) :
+
+
+Utilisation d'appels téléphoniques pour inciter les victimes à divulguer des informations confidentielles en se faisant passer pour des organisations légitimes, des banques ou des entités gouvernementales.
+
+
+[.background.blue]
+== Prétexte :
+
+Inventer un scénario crédible pour obtenir des informations confidentielles. 
+
+[.background.blue]
+=== Exemple
+
+Par exemple, se faire passer pour un technicien informatique ou un représentant de service pour obtenir des informations d'identification.
+
+[.background.blue]
+== Ingénierie sociale basée sur les réseaux sociaux :
+
+Collecter des informations sur les victimes à partir de plateformes de médias sociaux pour personnaliser les attaques, telles que l'utilisation de détails personnels pour gagner la confiance ou obtenir des informations sensibles.
+
+[.background.blue]
+== Dumpster Diving :
+
+Fouiller les poubelles, les corbeilles de recyclage ou d'autres déchets pour récupérer des informations sensibles, des documents confidentiels ou des mots de passe jetés négligemment.
+
+[.background.blue]
+== Infiltration physique :
+
+Pénétrer physiquement dans des locaux sécurisés sous prétexte d'être un employé ou un prestataire de services, afin d'accéder à des systèmes informatiques ou à des informations sensibles.
+
+[.background.blue]
+=== Question
+
+Que pourriez-vous vous rendre plus difficile à la fois l'accès aux systèmes informatiques et l'obtention d'informations sensibles dans le cadre d'une infiltration physique ?
+
+
+[.background.blue]
+== Tailgating (Piggybacking) :
+
+Profiter de la courtoisie des employés en se faisant passer pour un employé légitime pour accéder à des locaux sécurisés ou à des systèmes informatiques.
+
+[.background.blue]
+== Quizzing (Questioning) :
+
+Poser des questions innocentes mais ciblées pour obtenir des informations sensibles. Par exemple, en se faisant passer pour un enquêteur ou un chercheur.
+
+[.background.blue]
+== Impersonation :
+
+Se faire passer pour une personne de confiance, un employé ou une autorité pour manipuler les victimes et obtenir des informations ou des accès.
+
+[.background.blue]
+== Tromperie en ligne :
+
+Créer de faux sites Web ou services qui imitent des sites légitimes pour inciter les utilisateurs à fournir leurs identifiants de connexion ou d'autres informations.
+
+[.background.blue]
+== Attaque d'ingénierie sociale par téléphone (Telephony Social Engineering) :
+
+Utiliser des techniques de persuasion pour obtenir des informations d'identification par téléphone auprès des victimes.
+
+[.background.green]
+== Question
+
+[.background.green]
+=== Question 1
+
+Madame D, ingénieur social crée un faux site web ressemblant à celui de la Banque Postale pour inciter Monsieur Y à founrir ses identifants de connexion.
+
+Quelles sont les tactiques d'ingénérie sociale qu'elle a pu utiliser pour arriver à ce résultat ? 
+
+[.background.green]
+=== Question 2
+
+Quelle tactique d'ingénierie sociale implique de se faire passer pour quelqu'un de confiance pour obtenir un accès ou des informations ?
+
+
+[.background.green]
+=== Question 3
+
+Quelle tactique d'ingénierie sociale implique de poser des questions innocentes mais ciblées pour obtenir des informations sensibles ?
+
+
+[.background.blue]
+== En résumé 
+
+Ces tactiques soulignent l'importance de la sensibilisation et de la formation pour se protéger contre les attaques d'ingénierie sociale et pour éduquer les utilisateurs sur les signes avant-coureurs et les meilleures pratiques en matière de sécurité informatique.

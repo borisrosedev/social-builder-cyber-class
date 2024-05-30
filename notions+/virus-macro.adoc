@@ -1,0 +1,46 @@
+= Un virus de macro 
+
+== Définition
+
+Un virus de macro est un type de logiciel malveillant qui utilise les macros, des séquences de commandes automatisées, pour infecter des documents, principalement des fichiers de traitement de texte et des feuilles de calcul. 
+
+=== Les macros
+
+Les macros sont des séquences de commandes enregistrées qui peuvent être exécutées automatiquement pour effectuer certaines tâches dans un document.
+
+=== Microsoft Word et Excel
+
+Les virus de macro exploitent souvent les fonctionnalités de macro incluses dans des applications comme Microsoft Word ou Excel. 
+
+=== Distribution
+
+Ces virus peuvent être distribués : 
+[%step]
+* en pièce jointe à des e-mails
+* sur des sites Web malveillants 
+* par d'autres moyens. 
+
+=== Ouverture du document infecté
+
+Lorsqu'une personne ouvre un document infecté et active les macros (souvent en étant trompée par une ingénierie sociale), le virus de macro s'exécute, infectant potentiellement le système.
+
+
+=== Les effets néfastes
+
+Les virus de macro peuvent avoir divers effets néfastes, tels que :
+
+[%step]
+* la suppression ou la modification de fichiers
+* la propagation du virus à d'autres documents
+* des actions plus graves comme la compromission du système. 
+
+=== La protection relative aux macros
+
+Pour se protéger contre les virus de macro, il est recommandé de :
+[%step]
+* désactiver les macros par défaut dans les applications de traitement de texte et de feuilles de calcul
+* de ne les activer que lorsque cela est absolument nécessaire et que la source du document est fiable.
+
+=== D'autres moyens
+
+Les logiciels antivirus et les bonnes pratiques de sécurité informatique, comme ne pas ouvrir des pièces jointes non sollicitées ou suspectes, sont également essentiels pour se protéger contre les infections par des virus de macro.

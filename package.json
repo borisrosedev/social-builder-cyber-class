@@ -1,0 +1,16 @@
+{
+  "name": "social-builder-cyber-class",
+  "version": "1.0.0",
+  "description": "Class on Cybersecurity",
+  "main": "index.js",
+  "scripts": {
+    "convert": "npx asciidoctor-revealjs *.adoc"
+  },
+  "keywords": [],
+  "author": "Boris Rose",
+  "license": "ISC",
+  "dependencies": {
+    "@asciidoctor/reveal.js": "^5.1.0",
+    "asciidoctor": "^3.0.4"
+  }
+}

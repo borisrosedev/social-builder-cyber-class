@@ -1,0 +1,97 @@
+= Les biais cognitifs 
+:customcss: styles.css
+
+[.background.blue]
+== Définition
+
+Les biais cognitifs sont des schémas de pensée systématiques et prévisibles qui peuvent influencer la manière dont les individus traitent l'information, prennent des décisions et interprètent le monde qui les entoure. 
+
+[.background.green]
+=== Conséquences
+
+Ces biais peuvent conduire à des jugements déformés, à des raisonnements fallacieux et à des perceptions biaisées. 
+
+[.background.green]
+=== Question
+
+Connaissez-vous des biais cognitifs ?
+
+[.background.blue]
+== Biais de confirmation 
+
+Tendance à rechercher, interpréter, ou privilégier les informations qui confirment nos croyances ou hypothèses préexistantes.
+
+[.background.blue]
+== Biais de disponibilité 
+
+Tendance à estimer la probabilité d'un événement en fonction de la facilité avec laquelle des exemples viennent à l'esprit.
+
+[.background.blue]
+== Biais de représentativité 
+
+Tendance à juger la probabilité d'un événement en fonction de la ressemblance avec un prototype plutôt que sur la base de statistiques objectives.
+
+[.background.blue]
+== Biais de surconfiance 
+
+Surestimation de nos capacités, connaissances ou prévisions futures, souvent associée à une confiance excessive dans nos jugements.
+
+[.background.blue]
+== Biais de récence 
+
+Tendance à accorder plus de poids aux informations récentes plutôt qu'à celles qui sont plus anciennes.
+
+[.background.blue]
+== Biais de rétrospective 
+
+Tendance à percevoir des événements passés comme étant plus prévisibles qu'ils ne l'étaient au moment où ils se sont produits.
+
+[.blue.background]
+== Biais de projection 
+
+Tendance à projeter nos propres croyances, émotions ou états mentaux sur les autres.
+
+[.blue.background]
+== Biais d'ancrage 
+
+Influence d'une valeur ou d'une information initiale (l'ancre) sur nos estimations ultérieures.
+
+[.blue.background]
+== Biais de conformité 
+
+Tendance à modifier nos opinions ou nos comportements pour correspondre à ceux d'un groupe ou d'une autorité.
+
+[.blue.background]
+== Biais de groupe 
+
+Tendance à surestimer les qualités ou les caractéristiques de notre propre groupe par rapport aux autres groupes.
+
+[.blue.background]
+== Biais de cadrage 
+
+Tendance à réagir différemment selon la manière dont une information est présentée.
+
+[.blue.background]
+== Biais de contexte 
+
+Tendance à prendre des décisions en fonction du contexte dans lequel elles sont présentées.
+
+[.blue.background]
+== Biais de coût irrécupérable (ou coût enclenché) 
+
+Tendance à poursuivre une activité ou un projet simplement parce qu'on a déjà investi du temps, de l'argent ou des ressources.
+
+[.blue.background]
+== Biais de négativité 
+
+Tendance à donner plus de poids aux expériences négatives que positives.
+
+[.blue.background]
+== Biais de la planification 
+
+Tendance à sous-estimer le temps nécessaire pour accomplir une tâche, même en tenant compte des expériences passées.
+
+[.blue.background]
+== Biais de sympathie (ou d'empathie) 
+
+Tendance à prendre des décisions basées sur l'empathie ou la sympathie plutôt que sur des faits ou des preuves.

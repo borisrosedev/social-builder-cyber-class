@@ -1,0 +1,65 @@
+= Le terme "spoofing" 
+
+
+== Définition
+
+Le terme "spoofing" désigne une technique utilisée en informatique pour tromper ou induire en erreur un système, un utilisateur ou un dispositif en falsifiant des informations ou en se faisant passer pour quelque chose ou quelqu'un d'autre. 
+
+
+== Malveillance
+
+Le spoofing est souvent utilisé à des fins malveillantes, telles que la fraude en ligne, le piratage informatique ou la distribution de logiciels malveillants. 
+
+
+== Types courants
+
+Voici quelques types courants de spoofing :
+
+== IP Spoofing 
+
+Dans l'IP spoofing (spoofing d'adresse IP), un attaquant modifie l'en-tête d'un paquet réseau pour faire croire à la source ou à la destination qu'il provient d'une adresse IP différente. 
+
+=== Masquer
+
+Cela peut être utilisé pour masquer l'identité de l'attaquant ou pour tromper un système en lui faisant croire qu'un paquet provient d'une source de confiance.
+
+
+== DNS Spoofing 
+
+Le DNS spoofing implique la falsification des données DNS (Domain Name System) pour rediriger les utilisateurs vers des sites Web malveillants ou des serveurs contrôlés par un attaquant. 
+
+=== Phishing 
+
+Cela peut être utilisé pour des attaques de phishing ou pour rediriger le trafic vers des sites Web malveillants.
+
+
+== ARP Spoofing 
+
+L'ARP (Address Resolution Protocol) spoofing consiste à envoyer des informations ARP falsifiées sur un réseau local pour associer une adresse IP à une adresse MAC incorrecte. 
+
+
+=== Man-in-the-Middle
+
+Cela peut permettre à un attaquant de détourner le trafic réseau d'une cible ou de mener des attaques de l'homme du milieu (Man-in-the-Middle).
+
+== Email Spoofing 
+
+L'email spoofing implique l'envoi d'emails en falsifiant l'adresse de l'expéditeur pour faire croire que l'email provient d'une source légitime. 
+
+=== Usurpation d'identité
+
+Cette technique est souvent utilisée pour des campagnes de phishing ou d'usurpation d'identité.
+
+
+== Caller ID Spoofing 
+
+Dans le cadre de l'usurpation de l'identifiant de l'appelant, un attaquant peut modifier le numéro de téléphone affiché sur l'identifiant de l'appelant d'un appel téléphonique pour masquer son véritable numéro.
+
+
+== En Résumé
+
+Le spoofing est une pratique souvent utilisée par les cybercriminels pour tromper les victimes et exploiter les failles de sécurité. Pour se protéger contre le spoofing, il est important de mettre en place des mesures de sécurité appropriées, telles que l'authentification à deux facteurs, l'utilisation de protocoles de sécurité robustes et la surveillance du trafic réseau pour détecter les activités suspectes.
+
+== Pour aller plus loin
+
+link:tools-fr.html[Lien vers le cours sur IPS, IDS, EDR, SIEM et SOAR]

@@ -1,0 +1,90 @@
+= "Defense in Depth" (Défense en Profondeur) et "Zero Trust" 
+:customcss: styles.css
+
+[.blue.background]
+== Définition
+Il s'agit de deux approches de la sécurité informatique qui visent à protéger les systèmes, les données et les réseaux contre les menaces et les attaques. 
+
+[.blue.background]
+== Approches différentes
+
+Elles ont des approches différentes en matière de sécurité, mais peuvent également être complémentaires selon les besoins de l'organisation. 
+
+[.blue.background]
+== Défense en Profondeur (Defense in Depth) :
+
+[.blue.background]
+=== Approche traditionnelle
+
+La défense en profondeur est une approche traditionnelle de la sécurité informatique qui repose sur le principe de superposer plusieurs couches de défense pour protéger un système. 
+
+[.blue.background]
+=== Chaque couche
+
+Chaque couche de sécurité est conçue pour détecter, prévenir ou réagir à des menaces spécifiques. 
+
+
+[.blue.background]
+=== Les principaux éléments de la DID
+
+Les principaux éléments de la défense en profondeur comprennent :
+[%step]
+* Pare-feu (firewalls).
+* Antivirus et anti-malware.
+* Contrôles d'accès et authentification.
+
+[.blue.background]
+=== Egalement
+
+[%step]
+* Sécurité physique (comme la surveillance des locaux).
+* Mises à jour et correctifs de sécurité réguliers.
+* Formation et sensibilisation à la sécurité pour les utilisateurs.
+
+[.blue.background]
+=== L'objectif
+
+L'objectif de la défense en profondeur est de créer une série de barrières de sécurité qui rendent plus difficile pour les attaquants de pénétrer et de compromettre un système. 
+
+[.blue.background]
+=== Conséquence
+
+Cela signifie qu'en cas de défaillance d'une couche de sécurité, d'autres couches peuvent encore protéger les actifs de l'organisation.
+
+[.blue.background]
+== Zero Trust (Zéro Confiance) :
+
+[.blue.background]
+=== Définition
+
+Le modèle Zero Trust repose sur l'idée qu'il ne faut pas faire confiance à quiconque ou à quoi que ce soit, à l'intérieur ou à l'extérieur du réseau, et qu'il faut vérifier de manière continue l'authenticité des utilisateurs et des dispositifs, même lorsqu'ils se trouvent à l'intérieur du réseau de confiance. 
+
+[.blue.background]
+=== Les principaux principes
+
+Les principaux principes du modèle Zero Trust comprennent :
+[%step]
+* Vérification stricte de l'identité et de l'authentification.
+* Segmentation du réseau pour limiter l'accès aux ressources sensibles.
+* Surveillance et audit en temps réel de l'activité réseau.
+
+[.blue.background]
+=== Egalement
+[%step]
+* Application stricte des autorisations de l'accès aux ressources.
+* Refus par défaut (c'est-à-dire que rien n'est accessible à moins qu'une demande d'accès explicite ne soit autorisée).
+
+[.blue.background]
+=== L'objectif
+
+L'objectif de Zero Trust est de minimiser les risques en supprimant la notion de "confiance" dans les utilisateurs et les dispositifs, ce qui rend beaucoup plus difficile pour les attaquants de se déplacer latéralement à l'intérieur du réseau une fois qu'ils ont compromis un point d'accès.
+
+[.blue.background]
+== En résumé
+
+La défense en profondeur repose sur la création de multiples couches de sécurité pour protéger un système, tandis que Zero Trust repose sur l'idée de ne faire confiance à personne et de vérifier en permanence l'authenticité des utilisateurs et des dispositifs. 
+
+[.blue.background]
+=== Une combinaison ?
+
+Les organisations peuvent choisir d'adopter l'une ou l'autre de ces approches, ou une combinaison des deux, en fonction de leurs besoins en matière de sécurité et des menaces auxquelles elles sont confrontées.
